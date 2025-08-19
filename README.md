@@ -12,7 +12,7 @@
 - 🌅 Sunrise chaser
 - 🌲 Nature lover - Especially forests with piercing light
 - 💙 Fan of light blue skies
-- 🍵 Matcha
+- 🍵 Fan of Matcha
 
 ```python
 def life_motto():
@@ -21,6 +21,7 @@ def life_motto():
         solve_problems()
         enjoy_nature()
         enjoy_music()
+        meet_family()
         meet_friends()
         eat()
         sleep()
